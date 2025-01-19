@@ -20,7 +20,7 @@ mystical agriculture
 FTB Backups
 CC Tweaked
 Advanced Peripherals
-Create // Addonなども入れる
+Create 
 Create Crafts & Additions 
 Create Enchantment Industry 
 Create: Steam 'n' Rails
@@ -64,4 +64,5 @@ Applied Energistics 2 Wireless Terminals
 ExtendedAE
 Applied Mekanistics
 AllTheCompressed
+EnderStorage
 
