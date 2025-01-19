@@ -1,0 +1,66 @@
+FTB Quest
+FTB Ultimine
+FTB Chunks
+Corail Tombstone
+just enough items
+ProjectE 
+ProjectEx
+Industrial Foregoing
+Draconic Evolution
+Thermal Series 
+RFTools Dimensions
+Mekanism 
+Mekanism Tools
+Mekanism Tweaks
+Mekanism generators
+RFTools Builder
+Storage Drawer
+Applied Energistics 2
+mystical agriculture
+FTB Backups
+CC Tweaked
+Advanced Peripherals
+Create // Addonなども入れる
+Create Crafts & Additions 
+Create Enchantment Industry 
+Create: Steam 'n' Rails
+Create Sifting
+CobbleForDays
+Quark
+Cyclic
+Apotheosis
+Ars Nouveau
+Construction Wand
+Cooking for Blockheads
+Curios
+Easy Villagers
+Entangled
+Explorer's Compass
+Flux Network
+Integrated Dynamics 
+integrated-terminals
+integrated-crafting
+Iron Furnaces
+Iron Chest
+jade
+Pipez
+smoothfont
+Waystone
+trash cans
+Building Gadgets
+KubeJs
+EnderIO
+Balm
+Rf Tools Builder
+KubeJs mekanism
+Additional Enchanted Miner
+Just Another Void Dimension
+Just Enough Mekanism Multiblocks
+Mekanism Extras
+Botania
+Tinkers Construct
+AEInfinityBooster
+Applied Energistics 2 Wireless Terminals
+ExtendedAE
+Applied Mekanistics
+
