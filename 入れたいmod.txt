@@ -63,4 +63,5 @@ AEInfinityBooster
 Applied Energistics 2 Wireless Terminals
 ExtendedAE
 Applied Mekanistics
+AllTheCompressed
 
