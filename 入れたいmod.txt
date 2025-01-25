@@ -66,4 +66,5 @@ AllTheCompressed
 EnderStorage
 Hostile Neural Networks
 dark-utilities
+Baubles
 StorageBox
