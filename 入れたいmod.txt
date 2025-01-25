@@ -43,7 +43,6 @@ integrated-crafting
 Iron Furnaces
 Iron Chest
 jade
-Pipez
 smoothfont
 Waystone
 trash cans
