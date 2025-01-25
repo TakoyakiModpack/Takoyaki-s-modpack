@@ -64,4 +64,5 @@ ExtendedAE
 Applied Mekanistics
 AllTheCompressed
 EnderStorage
+Hostile Neural Networks
 
