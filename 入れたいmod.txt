@@ -68,3 +68,4 @@ Hostile Neural Networks
 dark-utilities
 Baubles
 StorageBox
+iron chest
