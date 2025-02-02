@@ -67,5 +67,5 @@ EnderStorage
 Hostile Neural Networks
 dark-utilities
 Baubles
-StorageBox
+Advanced AE2
 iron chest
