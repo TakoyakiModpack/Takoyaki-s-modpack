@@ -19,6 +19,7 @@ Applied Energistics 2
 mystical agriculture
 FTB Backups
 CC Tweaked
+FancyMenu
 Advanced Peripherals
 Create 
 Create Crafts & Additions 
