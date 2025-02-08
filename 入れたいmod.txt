@@ -49,7 +49,6 @@ Waystone
 trash cans
 Building Gadgets
 KubeJs
-EnderIO
 Balm
 Rf Tools Builder
 KubeJs mekanism
