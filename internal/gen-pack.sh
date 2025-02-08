@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # 出力するファイル名
-PACK_FILE_NAME="extraordinary-energy"
+PACK_FILE_NAME="Modpacks"
+
 
 # エラー時にスクリプトを停止する
 set -euo pipefail

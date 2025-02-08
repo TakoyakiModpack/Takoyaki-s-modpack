@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "forge1.20.1",
-  "version": "",
+  "name": "modpacks",
+  "version": "1.0",
   "author": "",
   "files": [
     {
