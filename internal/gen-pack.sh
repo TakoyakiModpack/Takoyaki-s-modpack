@@ -17,7 +17,7 @@ echoerr 既存のpacktmpディレクトリを削除
 rm -rf packtmp/ || true
 
 echoerr packtmpディレクトリを構築
-sudo mkdir packtmp/
+mkdir packtmp/
 cp -r LICENSE modlist.html README.md packtmp/
 
 echoerr packtmp/manifest.jsonを構築
