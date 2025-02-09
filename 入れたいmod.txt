@@ -29,6 +29,7 @@ Create Sifting
 CobbleForDays
 Quark
 Cyclic
+DankStorage
 Apotheosis
 Ars Nouveau
 Construction Wand
