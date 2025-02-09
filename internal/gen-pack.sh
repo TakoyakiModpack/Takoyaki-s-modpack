@@ -10,12 +10,14 @@ set -euo pipefail
 function echoerr() {
     echo "$@" 1>&2
 }
+echoerr ルートディレクトリへ移動
 cd /
+
 echoerr 既存のpacktmpディレクトリを削除
 rm -rf packtmp/ || true
 
 echoerr packtmpディレクトリを構築
-mkdir packtmp/
+sudo mkdir packtmp/
 cp -r LICENSE modlist.html README.md packtmp/
 
 echoerr packtmp/manifest.jsonを構築
