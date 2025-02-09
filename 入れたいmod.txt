@@ -31,6 +31,7 @@ Create Crafts & Additions
 Create Sifter
 Create: Steam 'n' Rails
 Cucumber Library
+CullLeaves
 Curios API
 Cyclic
 Cyclops Core
@@ -55,9 +56,12 @@ FTB Ultimine
 FancyMenu
 Ferrite Core
 Flux Networks
+Fzzy Config
+GPUTape
 GeckoLib 4
 Glodium
 Hostile Neural Networks
+ImmediatelyFast
 Industrial Foregoing
 IntegratedCrafting
 IntegratedDynamics
@@ -70,6 +74,7 @@ Just Another Void Dimension
 Just Enough Items
 Just Enough Mekanism Multiblocks
 Konkrete
+Kotlin for Forge
 KubeJS
 KubeJS Create
 KubeJS ProjectE
@@ -82,6 +87,8 @@ Mekanism Extras
 Mekanism: Generators
 Mekanism: Tools
 Melody
+Memory Leak Fix
+MidnightLib
 Modern UI
 ModernFix
 Mouse Tweaks
@@ -89,6 +96,7 @@ Mystical Agriculture
 Noisium
 Oculus
 Palladium
+Particle Core
 Patchouli
 PigPen
 Placebo
@@ -106,6 +114,7 @@ Runelic
 Saturn
 Scalable Cat's Force
 Searchables
+ServerCore
 Sodium
 Sodium Dynamic Lights
 Sodium Extras
