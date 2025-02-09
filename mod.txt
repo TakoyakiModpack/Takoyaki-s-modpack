@@ -1,0 +1,140 @@
+AEInfinityBooster
+Advanced AE
+Advanced Peripherals
+AllTheCompressed
+Apotheosis
+Apothic Attributes
+AppleSkin
+Applied Energistics 2
+Applied Mekanistics
+Architectury
+Ars Nouveau
+BadOptimizations
+Balm
+Bookshelf
+Botania
+Brandon's Core
+Building Gadgets 2
+CC: Tweaked
+CoFH Core
+Cobble For Days
+CodeChicken Lib
+CommonCapabilities
+Configured
+Construction Wand
+Controlling
+CookingForBlockheads
+Corail Tombstone
+CraftingTweaks
+Create
+Create Crafts & Additions
+Create Sifter
+Create: Steam 'n' Rails
+Cucumber Library
+CullLeaves
+Curios API
+Cyclic
+Cyclops Core
+Dank Storage
+DarkUtilities
+Draconic Evolution
+Easy Villagers
+Embeddium
+Embeddium Extra
+Embeddium++
+Ender IO
+EnderStorage
+Entangled
+EntityCulling
+Explorer's Compass
+FTB Backups 2
+FTB Chunks
+FTB Library
+FTB Quests
+FTB Teams
+FTB Ultimine
+FancyMenu
+Ferrite Core
+Flux Networks
+Fzzy Config
+GPUTape
+GeckoLib 4
+Glodium
+Hostile Neural Networks
+ImmediatelyFast
+Industrial Foregoing
+IntegratedCrafting
+IntegratedDynamics
+IntegratedTerminals
+IntegratedTunnels
+Iron Chests
+Iron Furnaces
+Jade
+Just Another Void Dimension
+Just Enough Items
+Just Enough Mekanism Multiblocks
+Konkrete
+Kotlin for Forge
+KubeJS
+KubeJS Create
+KubeJS ProjectE
+KubeJS Thermal
+KubeJS-EnderIO
+Mantle
+McJtyLib
+Mekanism
+Mekanism Extras
+Mekanism: Generators
+Mekanism: Tools
+Melody
+Memory Leak Fix
+MidnightLib
+Modern UI
+ModernFix
+Mouse Tweaks
+Mystical Agriculture
+Noisium
+Oculus
+Palladium
+Particle Core
+Patchouli
+PigPen
+Placebo
+PolyLib
+Project Expansion
+ProjectE
+Quark
+QuarryPlus
+RFToolsBase
+RFToolsBuilder
+RFToolsDimensions
+Radium
+Rhino
+Runelic
+Saturn
+Scalable Cat's Force
+Searchables
+ServerCore
+Sodium
+Sodium Dynamic Lights
+Sodium Extras
+Sodium Options API
+Starlight
+Storage Drawers
+SuperMartijn642's Config Library
+SuperMartijn642's Core Lib
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Thermal Integration
+Thermal Locomotion
+Tinkers' Construct
+Titanium
+ToadLib
+Trash Cans
+Trenzalore
+Waystones
+Zeta
+flib
