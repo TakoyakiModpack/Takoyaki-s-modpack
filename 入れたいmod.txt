@@ -34,6 +34,7 @@ Cucumber Library
 Curios API
 Cyclic
 Cyclops Core
+Dank Storage
 DarkUtilities
 Draconic Evolution
 Easy Villagers
