@@ -10,7 +10,7 @@ set -euo pipefail
 function echoerr() {
     echo "$@" 1>&2
 }
-
+cd /
 echoerr 既存のpacktmpディレクトリを削除
 rm -rf packtmp/ || true
 
@@ -29,8 +29,6 @@ cp manifest.json packtmp/
 echoerr packtmp/overridesディレクトリを構築
 mkdir packtmp/overrides/
 cp -r config/ kubejs/ multiblocked/ mods/ packtmp/overrides/
-ls -la
-pwd
 echoerr 既存のpackディレクトリを削除
 rm -rf pack/ || true
 
