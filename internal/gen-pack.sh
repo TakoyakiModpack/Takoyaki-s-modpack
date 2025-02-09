@@ -29,7 +29,8 @@ cp manifest.json packtmp/
 echoerr packtmp/overridesディレクトリを構築
 mkdir packtmp/overrides/
 cp -r config/ kubejs/ multiblocked/ mods/ packtmp/overrides/
-
+ls -la
+pwd
 echoerr 既存のpackディレクトリを削除
 rm -rf pack/ || true
 
