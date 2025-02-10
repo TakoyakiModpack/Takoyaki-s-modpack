@@ -1,4 +1,8 @@
+MEGA Cells
+ME Requester
+Applied Energistics 2 Wireless Terminals
 AEInfinityBooster
+Applied Flux
 Advanced AE
 Advanced Peripherals
 AllTheCompressed
@@ -7,6 +11,7 @@ Apothic Attributes
 AppleSkin
 Applied Energistics 2
 Applied Mekanistics
+AppliedFlux
 Architectury
 Ars Nouveau
 BadOptimizations
@@ -16,6 +21,7 @@ Botania
 Brandon's Core
 Building Gadgets 2
 CC: Tweaked
+Cloth Config v10 API
 CoFH Core
 Cobble For Days
 CodeChicken Lib
@@ -80,6 +86,8 @@ KubeJS Create
 KubeJS ProjectE
 KubeJS Thermal
 KubeJS-EnderIO
+ME Requester
+MEGA Cells
 Mantle
 McJtyLib
 Mekanism
