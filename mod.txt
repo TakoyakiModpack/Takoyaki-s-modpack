@@ -1,5 +1,8 @@
 MEGA Cells
 ME Requester
+Applied Energistics 2 Wireless Terminals
+AEInfinityBooster
+Applied Flux
 
 Advanced AE
 Advanced Peripherals
