@@ -13,7 +13,6 @@ Applied Energistics 2
 Applied Mekanistics
 AppliedFlux
 Architectury
-Ars Nouveau
 BadOptimizations
 Balm
 Bookshelf
