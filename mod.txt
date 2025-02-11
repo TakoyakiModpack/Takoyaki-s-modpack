@@ -1,8 +1,6 @@
-MEGA Cells
-ME Requester
-Applied Energistics 2 Wireless Terminals
+AE2WTLib
 AEInfinityBooster
-Applied Flux
+QuarryPlus
 Advanced AE
 Advanced Peripherals
 AllTheCompressed
@@ -10,8 +8,8 @@ Apotheosis
 Apothic Attributes
 AppleSkin
 Applied Energistics 2
-Applied Mekanistics
 AppliedFlux
+Applied Mekanistics
 Architectury
 BadOptimizations
 Balm
@@ -62,14 +60,14 @@ FancyMenu
 Ferrite Core
 Flux Networks
 Fzzy Config
-GPUTape
 GeckoLib 4
 Glodium
+GPUTape
 Hostile Neural Networks
 ImmediatelyFast
 Industrial Foregoing
-IntegratedCrafting
 IntegratedDynamics
+IntegratedCrafting
 IntegratedTerminals
 IntegratedTunnels
 Iron Chests
@@ -111,10 +109,9 @@ PolyLib
 Project Expansion
 ProjectE
 Quark
-QuarryPlus
+RFToolsDimensions
 RFToolsBase
 RFToolsBuilder
-RFToolsDimensions
 Radium
 Rhino
 Runelic
@@ -122,7 +119,6 @@ Saturn
 Scalable Cat's Force
 Searchables
 ServerCore
-Sodium
 Sodium Dynamic Lights
 Sodium Extras
 Sodium Options API
@@ -145,3 +141,4 @@ Trenzalore
 Waystones
 Zeta
 flib
+Sodium
