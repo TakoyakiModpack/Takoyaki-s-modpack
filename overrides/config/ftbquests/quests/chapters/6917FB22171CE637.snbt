@@ -1,0 +1,33 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6917FB22171CE637"
+	group: "1E17705271C5FDFC"
+	icon: "minecraft:oak_log"
+	id: "6917FB22171CE637"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"&l初めての原木！&r"
+			"マインクラフトはここから始まります"
+		]
+		id: "1FA8666804800FA0"
+		rewards: [{
+			count: 12
+			id: "7665BBFAAC88EDB9"
+			item: "minecraft:oak_log"
+			type: "item"
+		}]
+		subtitle: "初めての原木"
+		tasks: [{
+			count: 4L
+			id: "6FB5B301DC1247BB"
+			item: { Count: 4, id: "minecraft:oak_log" }
+			type: "item"
+		}]
+		x: -13.5d
+		y: 0.0d
+	}]
+	title: "初めてのバニラ"
+}
